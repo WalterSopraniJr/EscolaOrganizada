@@ -1,322 +1,42 @@
 const listaAlunos = [ 
 {
     nome: "Nicolas Luzia",
-    nasc: "10/",
+    nasc: "10/02/2012",
     ano: "4",
     sala: ""
 }, {
     nome: "Andre Souza",
-    nasc: "7",
+    nasc: "03/11/2015",
     ano: "1",
     sala: ""
 }, {
     nome: "Linara Albuquerque",
-    nasc: "11",
+    nasc: "05/05/2011",
     ano: "5",
     sala: ""
 }, {
     nome: "Beatriz Oliveira",
-    nasc: "10",
+    nasc: "13/05/2012",
     ano: "4",
     sala: ""
 }, {
     nome: "Roger Santos",
-    nasc: "8",
+    nasc: "02/02/2014",
     ano: "2",
     sala: ""
 }, {
     nome: "Toninho Rodrigues",
-    nasc: "9",
+    nasc: "25/06/2013",
     ano: "",
     sala: ""
 }, {
     nome: "José Carlos",
-    nasc: "",
+    nasc: "4/10/2013",
     ano: "",
     sala: ""
 }, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
-    ano: "",
-    sala: ""
-}, {
-    nome: "",
-    nasc: "",
+    nome: "Carlos Mendes",
+    nasc: "19/",
     ano: "",
     sala: ""
 }, {
@@ -325,5 +45,6 @@ const listaAlunos = [
     ano: "",
     sala: ""
 }
-
 ]
+
+module.exports = listaAlunos
