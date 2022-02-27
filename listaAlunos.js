@@ -1,0 +1,329 @@
+const listaAlunos = [ 
+{
+    nome: "Nicolas Luzia",
+    nasc: "10/",
+    ano: "4",
+    sala: ""
+}, {
+    nome: "Andre Souza",
+    nasc: "7",
+    ano: "1",
+    sala: ""
+}, {
+    nome: "Linara Albuquerque",
+    nasc: "11",
+    ano: "5",
+    sala: ""
+}, {
+    nome: "Beatriz Oliveira",
+    nasc: "10",
+    ano: "4",
+    sala: ""
+}, {
+    nome: "Roger Santos",
+    nasc: "8",
+    ano: "2",
+    sala: ""
+}, {
+    nome: "Toninho Rodrigues",
+    nasc: "9",
+    ano: "",
+    sala: ""
+}, {
+    nome: "José Carlos",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}, {
+    nome: "",
+    nasc: "",
+    ano: "",
+    sala: ""
+}
+
+]
