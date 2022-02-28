@@ -36,12 +36,12 @@ const listaAlunos = [
     sala: ""
 }, {
     nome: "Carlos Mendes",
-    nasc: "19/",
+    nasc: "19/09/2015",
     ano: "",
     sala: ""
 }, {
-    nome: "",
-    nasc: "",
+    nome: "Alfredo Albino",
+    nasc: "11/11/2011",
     ano: "",
     sala: ""
 }
