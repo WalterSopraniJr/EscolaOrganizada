@@ -6,29 +6,41 @@ const quartoAno = []
 const quintoAno = []
 
 
+function separarPorAno (array, idadeComparada, anoLetivo) {
 
-function separaPorAno(array, idade, anoLetivo) {
+    let alunoAtual = [];
 
-    for (let index = 0; index <= array.length; index++) {
-        //console.log(`aluno avaliado ${array[index].nome}, idade: ${array[index].idade}`)
-        //console.log(array[index])
-        let alunoAtual = array[index]
+    for(let i = 0; i < array.length; i++) {
 
-        if (array[index].idade == idade) {
-            console.log(anoLetivo[index])
-            anoLetivo.push(index) 
-            return anoLetivo         
-               
-        } else {
-            index++
+        if(array[i].idade == idadeComparada) {
+            alunoAtual.push(array[i]);
+            array[i].ano = anoLetivo
         }
-      
+
     }
 
-    console.log(`Os alunos do ano são: ${anoLetivo}`)
-
-    return array
+    return alunoAtual;
 }
 
-console.log(separaPorAno(listaAlunos, 7, primeiroAno))
-//console.log(`Os alunos do primeiro ano são: ${primeiroAno}`)
+
+    primeiroAno.push(separarPorAno(listaAlunos, 7, 1));
+    console.log("Os alunos cadastrados no primeiro ano são:")
+    console.log(primeiroAno)
+
+    segundoAno.push(separarPorAno(listaAlunos, 8, 2));
+    console.log("Os alunos cadastrados no segundo ano são:")
+    console.log(segundoAno)
+
+    terceiroAno.push(separarPorAno(listaAlunos, 9, 3));
+    console.log("Os alunos cadastrados no terceiro ano são:")
+    console.log(terceiroAno)
+
+    quartoAno.push(separarPorAno(listaAlunos, 10, 4));
+    console.log("Os alunos cadastrados no quarto ano são:")
+    console.log(quartoAno)
+
+    quintoAno.push(separarPorAno(listaAlunos,11, 5));
+    console.log("Os alunos cadastrados no quinto ano são:")
+    console.log(quintoAno)
+
+   
