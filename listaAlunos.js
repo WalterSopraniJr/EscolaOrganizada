@@ -1,47 +1,47 @@
 const listaAlunos = [ 
 {
     nome: "Nicolas Luzia",
-    idade: 10, // "10/02/2012",
+    idade: 10, 
     ano: "4",
     sala: ""
 }, {
     nome: "Andre Souza",
-    idade: 7, //"03/11/2015",
+    idade: 7, 
     ano: "1",
     sala: ""
 }, {
     nome: "Linara Albuquerque",
-    idade: 11, //"05/05/2011",
+    idade: 11, 
     ano: "5",
     sala: ""
 }, {
     nome: "Beatriz Oliveira",
-    idade: 10, //"13/05/2012",
+    idade: 10, 
     ano: "4",
     sala: ""
 }, {
     nome: "Roger Santos",
-    idade: 8, //"02/02/2014",
+    idade: 8, 
     ano: "2",
     sala: ""
 }, {
     nome: "Toninho Rodrigues",
-    idade: 9, //"25/06/2013",
+    idade: 9, 
     ano: "",
     sala: ""
 }, {
     nome: "José Carlos",
-    idade: 9,  //"4/10/2013",
+    idade: 9,  
     ano: "",
     sala: ""
 }, {
     nome: "Carlos Mendes",
-    idade: 7, //"19/09/2015",
+    idade: 7, 
     ano: "",
     sala: ""
 }, {
     nome: "Alfredo Albino",
-    idade: 11,  //"11/11/2011",
+    idade: 11,  
     ano: "",
     sala: ""
 }, {
