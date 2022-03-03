@@ -13,9 +13,8 @@ function separaPorAno(array, idade, anoLetivo) {
         console.log(`aluno avaliado ${array[index].nome}, idade: ${array[index].idade}`)
         //console.log(array[index])
         let alunoAtual = array[index]
-        //let idadeComparada = 7
-
-        if (alunoAtual.idade == idade) {
+        
+        if (array[index].idade == idade) {
             console.log(anoLetivo[index])
             anoLetivo.push(alunoAtual[index]) 
                         
