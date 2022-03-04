@@ -2,27 +2,27 @@ const listaAlunos = [
 {
     nome: "Nicolas Luzia",
     idade: 10, 
-    ano: "4",
+    ano: "",
     sala: ""
 }, {
     nome: "Andre Souza",
     idade: 7, 
-    ano: "1",
+    ano: "",
     sala: ""
 }, {
     nome: "Linara Albuquerque",
     idade: 11, 
-    ano: "5",
+    ano: "",
     sala: ""
 }, {
     nome: "Beatriz Oliveira",
     idade: 10, 
-    ano: "4",
+    ano: "",
     sala: ""
 }, {
     nome: "Roger Santos",
     idade: 8, 
-    ano: "2",
+    ano: "",
     sala: ""
 }, {
     nome: "Toninho Rodrigues",
