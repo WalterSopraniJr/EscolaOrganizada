@@ -119,7 +119,7 @@ const listaAlunos = [
         nome: "Carolina Cristina",
         idade: 7,
         ano: ""
-    },{
+    }, {
         nome: "Diana Danna",
         idade: 7,
         ano: ""
@@ -210,6 +210,118 @@ const listaAlunos = [
     }, {
         nome: "Zelinda Zenno",
         idade: 9,
+        ano: ""
+    }, {
+        nome: "Jean Gray",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Scott Summers",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Charles Xavier",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Hank McCoy",
+        idade: 8,
+        ano: ""
+    }, {
+        nome: "Bobby Drake",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Warren Worthington",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Kurt Wagner",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Ororo Munroe",
+        idade: 8,
+        ano: ""
+    }, {
+        nome: "James Logan",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Piotr Rasputin",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Sean Cassidy",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Kitty Pryde",
+        idade: 7,
+        ano: ""
+    }, {
+        nome: "Anne Marie",
+        idade: 8,
+        ano: ""
+    }, {
+        nome: "Remy LeBeau",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Jubileu Lee",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Nathan Summers",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Jonothon Starsmore",
+        idade: 7,
+        ano: ""
+    }, {
+        nome: "Kevin Sidney",
+        idade: 8,
+        ano: ""
+    }, {
+        nome: "Armando Munoz",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Victor Creed",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Davis Cameron",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Jamex Madrox",
+        idade: 7,
+        ano: ""
+    }, {
+        nome: "Cain Marko",
+        idade: 8,
+        ano: ""
+    }, {
+        nome: "Davis Cameron",
+        idade: 9,
+        ano: ""
+    }, {
+        nome: "Paige Gunthrie",
+        idade: 10,
+        ano: ""
+    }, {
+        nome: "Raven Darkholme",
+        idade: 11,
+        ano: ""
+    }, {
+        nome: "Lorna Dane",
+        idade: 7,
+        ano: ""
+    }, {
+        nome: "Heather Cameron",
+        idade: 8,
         ano: ""
     }
 ]
