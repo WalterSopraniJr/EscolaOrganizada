@@ -443,7 +443,167 @@ const listaAlunos = [
         nome: "Ygritte Leslie",
         idade: 7,
         ano: ""
-    }
+    }, {
+        nome: "Ross Geller",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Monica Geller",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Chandler Bing",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Miles Morales",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Jane Foster",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Rachel Green",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Joey Tribbiani",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Phoebe Buffay",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Emily Waltham",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Richard Brucke",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Pete Becker",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Barney Stinson",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Ted Mosby",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Robin Scherbatsky",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Lily Aldrin",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Marshall Eriksen",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Quinn Garvey",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Zoey Pierson",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Stella Zinman",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Sandy Rivers",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Brad Morris",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Hammond Druthers",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "James stinson",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Virginia Mosby",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Mickey Aldrin",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Jenkins Peet",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Gary Blauman",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Billy Zabka",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Robby Keene",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Tory Nichols",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Eli Moskowitz",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Johnny Lawrence",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "Will Smith",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Daniel LaRusso",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Miguel Diaz",
+        idade: 7,
+        ano: ""
+        }, {
+        nome: "Samantha LaRusso",
+        idade: 8,
+        ano: ""
+        }, {
+        nome: "Amanda LaRusso",
+        idade: 9,
+        ano: ""
+        }, {
+        nome: "John Kreese",
+        idade: 10,
+        ano: ""
+        }, {
+        nome: "Terry Silver",
+        idade: 11,
+        ano: ""
+        }, {
+        nome: "Carmen Diaz",
+        idade: 7,
+        ano: ""
+        }
 ]
 
 module.exports = listaAlunos
